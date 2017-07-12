@@ -45,7 +45,7 @@
             this.shocker.Location = new System.Drawing.Point(12, 27);
             this.shocker.Name = "shocker";
             this.shocker.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("shocker.OcxState")));
-            this.shocker.Size = new System.Drawing.Size(653, 312);
+            this.shocker.Size = new System.Drawing.Size(653, 327);
             this.shocker.TabIndex = 0;
             // 
             // menuStrip1
