@@ -66,9 +66,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(92, 34);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(342, 13);
+            this.label2.Size = new System.Drawing.Size(348, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = "chage the url like : https://www.youtube.com/watch?v=865x4XXXXxX";
+            this.label2.Text = "change the url like : https://www.youtube.com/watch?v=865x4XXXXxX";
             // 
             // label3
             // 
@@ -91,7 +91,8 @@
             this.Controls.Add(this.videofield);
             this.Controls.Add(this.saveBt);
             this.Name = "Video_Settings";
-            this.Text = "Change Video";
+            this.ShowIcon = false;
+            this.Text = "DoIT - Change Video";
             this.ResumeLayout(false);
             this.PerformLayout();
 
